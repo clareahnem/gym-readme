@@ -10,6 +10,8 @@ By June D, Daniel W, Nam N and Clare O
 
 *GitHub Repository:* https://github.com/daniel-walters/express-gym-app
 
+Project management(Trello): https://trello.com/b/ZRCAUETr/t3a2-full-stack-app
+
 ##### Recommended Accounts to view this application
 
 *Staff Accounts*
@@ -37,9 +39,6 @@ By June D, Daniel W, Nam N and Clare O
 
 ---
 
-Site is live on https://ajgymapp.netlify.app/ <br/>
-Backend repo: https://github.com/daniel-walters/express-gym-app <br/>
-Project management(Trello): https://trello.com/b/ZRCAUETr/t3a2-full-stack-app
 
 ## About this Application
 
