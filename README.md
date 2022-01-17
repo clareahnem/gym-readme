@@ -551,3 +551,21 @@ Over the course of the development process the team has held meetings through a 
 
 ![trello card with team call summary](docs/img/team-calls.jpg "trellocard-meeting-example")
 
+### Integration and client manual testing
+
+Cypress was used to perform integration tests for the front end application. Examples of cypress tests are shown below;
+
+![example of cypress integration test](docs/img/cypress-example.png "cypress-integration-test")
+
+![example of cypress integration test 2](docs/img/cypress-example2.png "cypress-integration-test2")
+
+Furthermore, end-to-end testing involving out client was performed in a form of manual testing. Each test is based off of the user stories that were created in the planning phase, along with test case specific to the user story, its expected result, test result and success status. The results of these test were given back to the team as part of the client feedback. 
+
+![screenshot of client side manual testing](docs/img/clientTest.png "client-test")
+
+Any failed tests do not affect the performance of the currently active application. However, to satifisfy our client they are being taken as part of future considerations to be released in the next major release.
+
+*Link to manual testing spreadsheet:* 
+https://docs.google.com/spreadsheets/d/18RXXmrDpgV2983NSoB4NXMYkiiHScPcm_SRoBsu77Do/edit?usp=sharing
+
+
